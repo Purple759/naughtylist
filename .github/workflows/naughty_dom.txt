@@ -5,3 +5,4 @@
 ||email.trans.serviceautopilot.com^
 ||cukuh.loufeajai.sa.com^
 ||placerevs.unitedstudy.co.uk^
+||ai.tclking.com^
