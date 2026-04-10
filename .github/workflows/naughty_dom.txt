@@ -12,3 +12,4 @@
 ||ab.chatgpt.com^
 ||ws.chatgpt.com^
 ||chatgpt.com^
+||claude.ai^
