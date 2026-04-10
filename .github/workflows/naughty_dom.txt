@@ -14,3 +14,4 @@
 ||chatgpt.com^
 ||claude.ai^
 ||ios.chat.openai.com^
+||assets-proxy.anthropic.com^
