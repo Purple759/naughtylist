@@ -11,3 +11,4 @@
 ||api.anthropic.com^
 ||ab.chatgpt.com^
 ||ws.chatgpt.com^
+||chatgpt.com^
