@@ -13,3 +13,4 @@
 ||ws.chatgpt.com^
 ||chatgpt.com^
 ||claude.ai^
+||ios.chat.openai.com^
