@@ -8,3 +8,6 @@
 ||ai.tclking.com^
 ||tele.labelstud.io^
 ||tesla-hiring.com^
+||api.anthropic.com^
+||ab.chatgpt.com^
+||ws.chatgpt.com^
