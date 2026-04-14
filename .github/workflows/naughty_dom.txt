@@ -9,12 +9,14 @@
 ||tele.labelstud.io^
 ||tesla-hiring.com^
 ||api.anthropic.com^
+||www-cdn.anthropic.com^
+||anthropic.com^
+||assets-proxy.anthropic.com^
 ||ab.chatgpt.com^
 ||ws.chatgpt.com^
 ||chatgpt.com^
 ||claude.ai^
 ||ios.chat.openai.com^
-||assets-proxy.anthropic.com^
 ||www.perplexity.ai^
 ||count.perplexity.ai^
 ||perplexity.ai^
