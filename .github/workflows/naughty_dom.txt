@@ -12,10 +12,13 @@
 ||www-cdn.anthropic.com^
 ||anthropic.com^
 ||assets-proxy.anthropic.com^
+||console.anthropic.com^
+||platform.claude.com^
+||claude.com^
+||claude.ai^
 ||ab.chatgpt.com^
 ||ws.chatgpt.com^
 ||chatgpt.com^
-||claude.ai^
 ||ios.chat.openai.com^
 ||www.perplexity.ai^
 ||count.perplexity.ai^
