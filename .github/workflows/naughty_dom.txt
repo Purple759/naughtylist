@@ -15,3 +15,6 @@
 ||claude.ai^
 ||ios.chat.openai.com^
 ||assets-proxy.anthropic.com^
+||www.perplexity.ai^
+||count.perplexity.ai^
+||perplexity.ai^
