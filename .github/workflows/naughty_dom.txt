@@ -18,3 +18,8 @@
 ||www.perplexity.ai^
 ||count.perplexity.ai^
 ||perplexity.ai^
+||ai-sdk.dev^
+||openrouter.ai^
+||huggingface.co^
+||chathub.gg^
+||poe.com^
