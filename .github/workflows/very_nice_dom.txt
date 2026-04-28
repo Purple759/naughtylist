@@ -8,7 +8,6 @@
 @@||metroretro.io^$important
 @@||x.com^
 @@||intel.com^
-||sterve.shop^
 @@||www.redditstatic.com^$important
 @@||redditmedia.com^
 @@||red.it^
