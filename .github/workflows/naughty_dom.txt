@@ -25,7 +25,6 @@
 ||perplexity.ai^
 ||ai-sdk.dev^
 ||openrouter.ai^
-||huggingface.co^
 ||chathub.gg^
 ||poe.com^
 ||chat.deepseek.com^
