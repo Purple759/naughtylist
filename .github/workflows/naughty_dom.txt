@@ -30,3 +30,6 @@
 ||chat.deepseek.com^
 ||deepseek.com^
 ||sterve.shop^
+||cursor.sh^
+||api2.cursor.sh^
+
