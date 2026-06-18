@@ -24,3 +24,6 @@
 ||sterve.shop^
 ||cursor.sh^
 ||api2.cursor.sh^
+||itworo.com^
+||track.pstmrk.it^
+||pstmrk.it^
