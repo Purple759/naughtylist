@@ -41,3 +41,5 @@
 ||porta-koksport.com^
 ||www.cn-dblotto-wap.com^
 ||cn-dblotto-wap.com^
+||get-impulsion.fr^
+||impulsion-tech.fr^
