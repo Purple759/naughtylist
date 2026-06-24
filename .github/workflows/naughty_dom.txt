@@ -43,3 +43,5 @@
 ||cn-dblotto-wap.com^
 ||get-impulsion.fr^
 ||impulsion-tech.fr^
+||complyrim.store^
+||complyrim.com^
