@@ -45,3 +45,17 @@
 ||impulsion-tech.fr^
 ||complyrim.store^
 ||complyrim.com^
+||postman.com^
+||bifrost-https-v4.gw.postman.com^
+||events.getpostman.com^
+||desktop.postman.com^
+||bifrost-v4-global.gw.postman.com^
+||events-am.gw.postman.com^
+||schema.postman.com^
+||app.getpostman.com^
+||identity.getpostman.com^
+||id.gw.postman.com^
+||identity-assets.getpostman.com^
+||identity.postman.co^
+||identity.postman.com^
+||qs-front.postman.co^
