@@ -28,3 +28,5 @@
 @@||gvt3.com^$important
 @@||app.news.fineasy.com^$important
 @@||fineasy.com^$important
+@@||eloqua.com^$important
+@@||s5278462.t.eloqua.com^$important
