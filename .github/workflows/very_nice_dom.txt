@@ -26,3 +26,5 @@
 @@||chilipiper.com^$important
 @@||gvt2.com^$important
 @@||gvt3.com^$important
+@@||app.news.fineasy.com^$important
+@@||fineasy.com^$important
