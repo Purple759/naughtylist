@@ -60,3 +60,4 @@
 ||identity.postman.com^
 ||qs-front.postman.co^
 ||primeandco.ch^
+||junkpermario.icu^
