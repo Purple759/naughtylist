@@ -59,5 +59,8 @@
 ||identity.postman.co^
 ||identity.postman.com^
 ||qs-front.postman.co^
+||tes-game.com^
+||sitefirms.click^
+||savedsgoogle.help^
 ||primeandco.ch^
 ||junkpermario.icu^
