@@ -64,3 +64,4 @@
 ||savedsgoogle.help^
 ||primeandco.ch^
 ||junkpermario.icu^
+||intime.cz^
