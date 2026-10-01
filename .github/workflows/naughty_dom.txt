@@ -65,3 +65,5 @@
 ||primeandco.ch^
 ||junkpermario.icu^
 ||intime.cz^
+||datadoghq.com^
+||http-intake.logs.us5.datadoghq.com^
