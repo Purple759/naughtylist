@@ -30,3 +30,9 @@
 @@||fineasy.com^$important
 @@||eloqua.com^$important
 @@||s5278462.t.eloqua.com^$important
+@@||s5278462.t.eloqua.com^$important
+@@||capcut.com^$important
+@@||capcutapi.com^$important
+@@||www.capcut.com^$important
+@@||www.capcutapi.com^$important
+
