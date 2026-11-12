@@ -37,3 +37,4 @@
 @@||www.capcutapi.com^$important
 @@||pipopay.com.com^$important
 @@||cashier-my4a.pipopay.com.com^$important
+@@||ticket-restarant.com^$important
