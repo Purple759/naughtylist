@@ -39,3 +39,5 @@
 @@||cashier-my4a.pipopay.com.com^$important
 @@||ticket-restarant.com^$important
 @@||moncompte.ticket-restarant.com^$important
+@@||preveam.padoa.fr^$important
+@@||track.pstmrk.it^$important
