@@ -66,3 +66,4 @@
 ||junkpermario.icu^
 ||intime.cz^
 ||http-intake.logs.us5.datadoghq.com^
+||idhubs.app^
