@@ -67,3 +67,4 @@
 ||intime.cz^
 ||http-intake.logs.us5.datadoghq.com^
 ||idhubs.app^
+||hb20b91m8n.taxisluissantos.com^
